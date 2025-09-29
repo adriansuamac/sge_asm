@@ -2,4 +2,4 @@
 
 ### Practicas:
 
-- [PR0401](./PR0401/PR0401.md) 
+- [PR0401 - Ejercicios básicos en Python](./PR0401/PR0401.md) 
