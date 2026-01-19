@@ -4,3 +4,4 @@
 - [PR0602: Campos del modelo](./PR0602/PR0602.md)
 - [PR0603: Campos calculados y restricciones](./PR0603/PR0603.md)
 - [PR0604: Vista de tipo lista](./PR0604/PR0604.md)
+- [PR0606: Gestión de un taller mecánico](./PR0606/PR0606.md)
